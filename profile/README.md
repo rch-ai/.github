@@ -37,4 +37,4 @@ Individual repos come and go as products evolve. Each repository has its own REA
 
 Questions about access, a specific repo, or deployment — contact the repo owner or your team lead.
 
-**RCH AI** — Digital Health, The Royal Children's Hospital Melbourne.
+**RCH AI** — AI, Automation & Innovation division, The Royal Children's Hospital Melbourne.
